@@ -1,0 +1,14 @@
+-------------------------------------------------------------
+Weather Stats for - CHENNAI  || 22 Jun 2021 | 02:14:43 PM
+-------------------------------------------------------------
+Current temperature is: 32.20 deg C
+Current weather desc  :scattered clouds
+Current Humidity      :74% 
+Current wind speed    :3.13kmph 
+-------------------------------------------------------------
+Weather Stats for - SOUTHAMPTON  || 22 Jun 2021 | 02:15:13 PM
+-------------------------------------------------------------
+Current temperature is: 12.29 deg C
+Current weather desc  :few clouds
+Current Humidity      :85% 
+Current wind speed    :4.63kmph 
